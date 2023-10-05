@@ -1,3 +1,21 @@
-p {
-    color:blueviolet
-};
+
+    
+footer {
+    height: 150px;
+    background-color: #343a40;
+}
+    
+.social-networks-footer {
+    text-align: center;
+}
+    
+.social-networks-footer > li {
+    display: inline;
+    }
+    
+.social-networks-footer i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: white;
+}
